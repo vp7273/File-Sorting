@@ -1,4 +1,4 @@
-//	CS	1337.003	Project	1	<vxp171430>	<Varika Pinnam>
+
 
 #include <iostream>
 #include <string>
